@@ -2,11 +2,11 @@
 TASKS TO DO BEFORE THE END OF THE WORLD
 
 
-- El chat apesta. Intentar mejorarlo.
+- The chat sucks. Try to improve it.
 
-- Go to next game in each game. (burglar)
+- Go to next game in each game. (Burglar)
 
-- Implementar ordenación en "join game" para que aparezcan primero los retos a los que te puedes unir.
+- Implement management in "join game" to show the challenges that you can join first.
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -14,15 +14,15 @@ TASKS TO DO BEFORE THE END OF THE WORLD
 
 DONE !!
 
-- Actualizar el código para que sea compatible con PHP 5.3.10
+- Update your code to be compatible with PHP 5.3.10
 
-- Dividir el script reminder.php separando en otro script la funcionalidad de enviar correos
-  recordando que te toca mover y agendarlo en el cron cada 12 horas.
-  
-- Aparece el ELO de los jugadores en la ventana de la partida
+- Divide the script in another script reminder.php separating the functionality of sending e-
+  remembering that you get to move and bookmark it in the cron every 12 hours.
 
-- Redondeado a numeros enteros el ELO de los jugadores para que no se vea feo con decimales.
+- The ELO players displayed in the window of the game
 
-- Create game mejorado. Ahora su funcionamiento es igual al de retos.
+- Rounded to whole numbers ELO players to not look ugly with decimals.
 
-- Añadido el tramo de ELO en create games.
+- Create game improved. Now its operation is the same as challenges.
+
+- Added the section of ELO create games.
